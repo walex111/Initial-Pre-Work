@@ -1,0 +1,23 @@
+From cafe15478938bd0b7d62b37fba72f404ded53e36 Mon Sep 17 00:00:00 2001
+From: Walex111 <owale07@gmail.com>
+Date: Sun, 7 Jul 2019 08:34:57 -0600
+Subject: [PATCH] I changed the return value on line 5 to true.
+
+---
+ .../55-Understanding_Boolean_Values.js                      | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+diff --git a/5-Introduction-to-JavaScript/55-Understanding_Boolean_Values.js b/5-Introduction-to-JavaScript/55-Understanding_Boolean_Values.js
+index e69de29..de86697 100644
+--- a/5-Introduction-to-JavaScript/55-Understanding_Boolean_Values.js
++++ b/5-Introduction-to-JavaScript/55-Understanding_Boolean_Values.js
+@@ -0,0 +1,6 @@
++// I learned to use boolean in a function.
++function welcomeToBooleans() {
++
++
++return true;
++}
+-- 
+2.20.1.windows.1
+
